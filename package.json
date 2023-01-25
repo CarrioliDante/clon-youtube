@@ -1,6 +1,6 @@
 {
-  "homepage": "http://CarrioliDante.github.io/clon-youtube",
   "name": "youtubeclone",
+  "homepage": "http://CarrioliDante.github.io/clon-youtube",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
